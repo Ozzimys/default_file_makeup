@@ -1,1 +1,1 @@
-# default_file_makeup
+Standart file structure html makeup
